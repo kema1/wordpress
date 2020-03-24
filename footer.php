@@ -15,6 +15,8 @@
                <li><a href="#">Features.</a></li>
 			   </ul>
 
+            
+
             <ul class="footer-social">
                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                <li><a href="#"><i class="fa fa-twitter"></i></a></li>

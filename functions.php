@@ -8,6 +8,8 @@ add_action('wp_enqueue_scripts', 'theme_styles');
 //   register_nav_menu( 'top', 'Меню в шапке' ); 
 // }
 
+
+
 function theme_styles() { 
   wp_enqueue_style('style', get_stylesheet_uri()); 
   wp_enqueue_style('default', get_template_directory_uri() . '/assets/css/default.css');
